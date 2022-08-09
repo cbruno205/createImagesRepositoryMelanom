@@ -1,0 +1,2 @@
+# createImagesRepositoryMelanom
+This repository is intended to save the process that has to be done to join two or more free image repositories, in order to have more images related to the repository you want to create, in this case I was collecting images of melanoma (skin cancer), for this I first resorted to the HAM1000 repository, and then to ISIC, to only take into account the melanoma we filtered both repositories, both images and metadata.

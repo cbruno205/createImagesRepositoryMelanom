@@ -1,0 +1,37 @@
+HAM10000 ("Human Against Machine with 10000 training images")
+
+Melanocytic nevi (nv) Trastorno generalmente benigno de las células de la piel productoras de pigmento, comúnmente llamado marca de nacimiento o lunar.
+Este tipo de lunar suele ser de gran tamaño y está ocasionado por un trastorno de los melanocitos, las células que producen el pigmento (melanina).
+Los nevos melanocíticos pueden ser ásperos, planos o elevados. Pueden estar presentes en el momento del nacimiento o aparecer más adelante. 
+Aunque es raro que ocurra, los nevos melanocíticos pueden ser cancerosos.
+
+Melanoma (mel) El tipo más grave de cáncer de piel.
+El melanoma ocurre cuando las células productoras de pigmento que dan color a la piel se vuelven cancerosas.
+
+Benign keratosis-like lesions (bkl) Afección cutánea benigna que se manifiesta como una mancha cerosa marrón, negra o morena.
+La queratosis seborreica es una de las neoplasias de la piel no cancerosas más comunes en los adultos de edad avanzada. Aunque es posible que aparezcan en forma individual, generalmente aparecen en grupos.
+La queratosis seborreica suele aparecer en el rostro, el pecho, los hombros o la espalda.
+
+Basal cell carcinoma (bcc)Tipo de cáncer de piel que comienza en las células basales.
+Las células basales producen nuevas células de la piel a medida que las anteriores mueren. Limitar la exposición al sol puede prevenir que estas células se tornen cancerosas.
+Este tipo de cáncer generalmente se manifiesta como una protuberancia cerosa blanquecina o un área escamosa amarronada en las zonas que se exponen al sol, como el rostro y el cuello.
+
+Actinic keratoses (akiec)Zona áspera y escamosa de la piel ocasionada por años de exposición solar.
+La queratosis actínica generalmente afecta a los adultos de edad avanzada. Reducir la exposición solar puede minimizar el riesgo.
+Es más común en el rostro, los labios, las orejas, la palma de las manos, los antebrazos, el cuero cabelludo y el cuello. Las zonas de piel áspera y escamosa aumentan de tamaño progresivamente y, por lo general, no causan otros síntomas. Una lesión puede tardar años en aparecer.
+
+Vascular lesions (vas)Las lesiones vasculares son anomalías relativamente comunes de la piel y los tejidos subyacentes, más conocidas como marcas de nacimiento. 
+Hay tres categorías principales de lesiones vasculares: Hemangiomas, malformaciones vasculares y granulomas piogénicos.
+
+Dermatofibroma (df)El dermatofibroma es una lesión cutánea común en la práctica dermatológica. La manifestación típica es una pápula de crecimiento lento, firme y solitaria. Desde el punto de vista histopatológico, se define en ocasiones como una reacción del tejido conectivo dérmico y en otras como una proliferación neoplásica benigna.
+
+
+The International Skin Imaging Collaboration  69728 images.
+
+Melanocytic nevi (nv)
+Melanoma (mel)
+Benign keratosis-like lesions (bkl)
+Basal cell carcinoma (bcc)
+Actinic keratoses (akiec)
+Vascular lesions (vas)
+Dermatofibroma (df)

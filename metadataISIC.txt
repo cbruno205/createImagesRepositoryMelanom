@@ -1,0 +1,8 @@
+"sex": "female",
+        "diagnosis": "melanoma",
+        "mel_class": "invasive melanoma",
+        "mel_thick_mm": 0.4,
+        "benign_malignant": "malignant",
+        "anatom_site_general": "lower extremity",
+        "diagnosis_confirm_type": "histopathology",
+        "age_approx": 55
